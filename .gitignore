@@ -1,0 +1,2 @@
+# Google OAuth — ne pas commiter les identifiants
+config/google_client_secret.json
